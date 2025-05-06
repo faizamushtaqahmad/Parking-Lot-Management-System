@@ -42,7 +42,8 @@ parking-lot-fcfs/
 
 ## 📸 Sample Output
 
-![Gantt Chart Screenshot](![image](https://github.com/user-attachments/assets/8da13676-c01d-4459-8f6f-7f1add268e1c)
+![Gantt Chart Screenshot](![<img width="889" alt="image" src="https://github.com/user-attachments/assets/d65aafd9-c5c4-4016-b5a2-af720286f2da" />
+)
 )
 
 ---
